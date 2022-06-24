@@ -1,0 +1,7 @@
+{
+    "netextenderPath": "C:\\Program Files (x86)\\SonicWall\\SSL-VPN\\NetExtender",
+    "user": "user",
+    "pass": "password",
+    "server": "host:port",
+    "domain": "your.domain"
+}
